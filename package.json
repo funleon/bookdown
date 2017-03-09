@@ -14,7 +14,7 @@
     "markdown-it": "^8.2.2",
     "mdo": "^0.2.0",
     "mongodb": "^2.2.16",
-    "mz": "^2.6.0" // , "object-hash": "^1.1.5"
+    "mz": "^2.6.0" // "object-hash": "^1.1.5"
   },
   "devDependencies": {},
   "scripts": {
