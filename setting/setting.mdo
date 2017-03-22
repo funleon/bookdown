@@ -1,12 +1,13 @@
 port:80
 portSsl:443
 home:/view/ccc/README.md
-signup:false
+signup:true
 useLocal:false
-db:{user:"ccc", password:"ccc1234567", port:27017}
+db:{user:"abc", password:"abc1234567", port:27017}
 users:
 user     | password 
 ---------|-----------
 system   | ccc1234567
 ccc      | ccc1234567
 abc      | abc1234567
+def | def1234567
